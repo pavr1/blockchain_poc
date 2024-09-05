@@ -14,7 +14,7 @@ import (
 STEPS:
 	- Take data from the block
 	- Create a counter that starts at 0
-	- Create a hash od tha data plus the counter
+	- Create a hash of that data plus the counter
 	- Check if the hash meets a set of requirements
 
 	Requirements:
